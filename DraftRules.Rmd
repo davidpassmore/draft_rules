@@ -1,0 +1,224 @@
+---
+title: "Amberson Towers Condominum Council" # only for pdf output
+subtitle: "Rules & Regulations" # only for html output
+author: "Draft by Governance Committee"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: skeleton.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+***
+
+The Amberson Towers Condominium Council is responsible for the operation of the Condominium. Pursuant to its Code of Regulations, the Council shall from time to time issue rulings, regulations, and conditions which shall be binding upon all Apartment Unit owners and occupants which rulings, regulations and conditions shall be in the Council's sole judgement for the general well-being, safety, care, and cleanliness of the building.^[This document available in [Adobe PDF](https://www.personal.psu.edu/dlp/amber/Governance_Rules_Drafts/DraftRules.pdf) and [web page](https://www.personal.psu.edu/dlp/amber/Governance_Rules_Drafts/DraftRules.html) versions.] ^[* **How to Review this Document:** * Suggestions for insertions, edits, and deletions are shown in a numbered sidebar location, such as this. Refer to the number of the sidebar (e.g, this is *sidebar 1*) when you present in basecamp reactions/comments/suggestions about the proposed changes offered in this draft.] 
+
+## I. Information & Assistance 
+
+A. The Property Manager is available to give unit owners information and assistance in keeping with his duties to the condominium. Such requests should be confined to regular hours except in an emergency.^[Gil, another example of a sidebar callout we can insert for reviewers. Simple to add or delete in the markdown code.]
+
+B. Service requests and complaints regarding the service of the building shall be made in writing and placed in the Service boxes in the lobby or mail room.
+
+
+## II. Party Room 
+
+A. The party room is available only to unit owners for private parties. Arrangements for its use are to be made with the Property Manager on a first come, first serve basis.
+
+B. A deposit is required for the use of the party room. It will be refunded provided that the room has been restored to its original condition.
+
+C. The party room shall not be used for commercial purposes.
+
+1. Damage to the party room is the financial responsibility of the unit owner reserving it.
+
+2. Tenants may use the party room providing they obtain written authorization from their unit owner, who shall be financially responsible for damage caused by them. 
+    
+## III. Laundry 
+
+A. Laundry work shall be done only in the areas provided for such purposes.^[Gil, example of a sidebar callout we can insert for reviewers.]
+
+## IV. Storage & Lockers 
+
+A. The Condominium Association assumes no liability for any loss or damage to articles in any common or other storage area, except where due to negligence of the Condominium Association.
+
+B. The lobby, stairways, and other public areas shall not be used for the storage or placement of furniture or any other articles, including, but not limited to plants, boxes, etc.^[Gil, still another example of a sidebar callout we can insert for reviewers.]
+
+C. Each unit owner is entitled to a locker in one of the storage rooms.
+
+D. Extra storage lockers located on each floor may be rented on a monthly basis when available.
+
+## V. Sound Problems
+
+A. Each unit shall be carpeted in an amount equal to 80% of the floor space in every room, corridor, foyer, and/or vestibule with the exception of the kitchen and bathrooms.
+
+B. No owner or occupant shall make or permit any disturbing noises to be made in the building or on the premises by himself, his family, friends, tenants, servants, or other invitees; nor permit anything to be done by such persons that would interfere with the rights, comforts or convenience of their owners or occupants.
+
+C. No owner or occupant shall play or allow to be played any musical instrument, radio, TV, hi-fi, tape recorder or the like in the premises between the hours of 11 :00 pm and the following 8:00 am if the same shall disturb or annoy other owners or occupants of the building.
+
+## VI. Garage {-}
+
+A. No major automobile or vehicle repairs are permitted on any part of the premises. Emergency repairs and seasonal tire changes are permitted. Car washing is not permitted.
+
+B. Council shall have the authority to reassign parking spaces in extreme hardship cases or in cases where such a redistribution may lead to more efficient use of the space, i.e. small cars may be assigned to smaller spaces than large cars.
+
+C. Cars parked in spaces assigned to others will be towed away at the expense of the violator, unless prior permission has been obtained from the person to whom the spaces are assigned.
+
+D. All shopping carts shall be returned to the storage rooms on the IP, 2P, and 3P levels of the garage from where they were taken after use.
+
+E. Parking garage spaces shall be available only to resident unit owners or occupants on an annual basis.
+
+F. Parking garage spaces shall be allocated on the basis of the following priorities: First priority: first car of unit owner in residence; second priority: first car of tenant; third priority: second car of unit owner in residence; fourth priority second car of tenant. These spaces cannot be sublet.
+
+G. Any resident who is planning not to occupy his or her garage space for a continuous period of one month or more, shall notify the management office so that the space can be reassigned for that period based upon the priority list. Any resident who so notifies the management office will not be charged garage rent for the period of his or her absence during which the management office is able to reassign the space.
+
+H. Idling of vehicles, engine or leaving them unattended with the engine running in the garage is prohibited. Violations of this provision are subject to double the fines listed in Article IX hereof.
+
+I. Unit owners parking in the Amberson Towers garage who are delinquent in their monthly maintenance fees or parking fees by more than one month will lose their right to park in the garage. This will include tenants of owners who are delinquent in paying their fees.
+
+J. Garage renters who are to lose their parking space because they are delinquent will be notified ten days in advance before any action is taken. Persons losing a parking space are not guaranteed a subsequent parking space if the garage is fully occupied. Their names will be placed on a waiting list behind others already on the list.
+
+## VII. Security & Keys {-}
+
+A. The security system is for the protection of all unit owners. To be fully effective, this system requires that outsiders gain entrance to the building only upon the authorization of the unit owner whom they are visiting.
+
+B. The key to any door shall not be loaned or given to a domestic or attendant unless such person lives in the building.
+
+C. Unit Owners or occupants must not open any entry door for persons whom they do not know.
+
+D. The Property Manager must retain a passkey to each unit. No unit owner shall alter any lock or install a new lock on any door leading to his or her unit unless the owner shall provide the management with a key for management's use.
+
+E. Except as required in section D above, the unit owner accepts responsibility for any damages resulting as a consequence of keys entrusted by him or his designated agent to any employee pf the Condominium Association.
+
+F. No keys to any unit shall be left in the management office without notice to and acceptance by office management, and no keys shall be left to be given to any person other than an owner to that unit.
+
+## VIII. General {-}
+
+A. Nothing shall be done or kept in any unit in the common elements which will increase the rate of insurance of the building or contents thereof applicable for residential use without the prior consent of the Council.
+
+B. Nothing shall be thrown or emptied by the owners or their tenants or servants out of the window or doors, or down the stairways, or in the common areas, nor sh.all anything be hung from outside of the window sills.
+
+C. No occupant shale interfere in any manner with any portion either of the heating or electrical apparatus in or about the building.
+
+D. The addition of any major appliance, such as frost-free refrigerators, convection ovens, and room-sized humidifiers, shall require approval of Council. Washers and dryers, electric ranges, and window air conditioners are not permitted.
+
+E. No awnings or window guards shall be installed except as shall be put up or approved by the Council and no signs of any kind shall be placed in windows or on doors or on the exterior surfaces or common elements without prior written approval of the Council.
+
+F. All unit owners shall provide white curtain liners or white glass curtains as are presently used in the building.
+
+G. No radio or TV aerial shall be installed by the occupants outside of their respective units.
+
+H. No occupants or owners of the building shall send any employee of the Condominium Association out of the building on any private business.
+
+I. No unit owner or any of his agents, servants, employees, licensees, or visitors shall at any time bring into or keep in his unit any flammable, combustible, or explosive substance, except for normal household use.
+
+J. No solicitations shall be conducted on the premises without written consent of the Council.
+
+K. Water beds shall not be installed or used in any apartments.
+
+L. Owners shall not be permitted to put their names in any entry, passageway, vestibule, hall or stairway of the building, except in the proper place or on the mailbox provided for use of the units occupied by them respectively.
+
+M. No rugs shall be beaten on patios, outdoor living areas, stairways, halls or corridors; nor shall dust, rubbish, or litter be swept from unit, into any of the halls ·or entryways of the building.
+
+N. Use of the roofs shall be confined to the deck areas. Grilling on the roof is prohibited.
+
+O. Children shall not be permitted to loiter or play on the stairways or in the halls, lobbies, elevators, parking ramps, or any other common areas except for the lawns, the terrace or private patios, with permission of the owner holding the easement for such patio.
+
+P. The water closets, laundry rooms, and other water apparatus will not be used for any purpose other than that for which they were constructed , and no rubbish, rags or papers shall be thrown therein. Any damage to the property or unit of others, including the common elements, resulting from misuse of such facilities or the negligence of the unit owner or occupant shall be paid for by the owner of the unit in which such misuse occurred.
+
+Q. Any damage to the premises caused by the moving and/or carrying of articles therein shall be paid for by the owner of such articles. All large-scale moving must be arranged with the management office. Moving, delivery or carrying of furniture, appliances or any large items through the lobby of the building is prohibited.
+
+R. No animals, birds or pets of any kind shall be brought or kept in or about the apartment unit or the building.
+
+S. All Unit Owners establishing a new lease or extending the present lease are required to make the Amberson Towers Rules and Regulations a part of that lease.
+
+T. Each Unit owner shall carry an apartment owner's comprehensive insurance policy covering the inside of his apartment for contents 
+
+U. No unit owner or occupant shall conduct a public, estate or yard sale of furniture or other personal belongings in the building. Signs, notices, and messages of any kind shall be restricted to the bulletin boards in the mail room. Political signs, notices, advertisements or messages are not permitted.
+
+V. Prospective buyers must be confined to the seller's unit.
+
+W. Any consent or approval given under these Rule and Regulations may be added to, amended or repealed at any time by resolution of the Council.
+
+X. In addition to the alternative procedure set out in Article IX, alleged violators of these Rules and Regulations, the Code of Regulations, or Declaration-of the Amberson Towers Condominium may be notified to appear for a direct hearing before the Council, and upon a finding that a violation occurred, Council may levy fines against the violator as set forth in Article IX.
+
+## IX. Fines, Penalties, Notice, Appeals {-}
+
+*Fines & Penalties* {-}
+
+A. Except as otherwise provided herein or elsewhere, fines for violation of Amberson Towers Declaration, Code of Regulations, and its Rules and Regulations as follows:
+
+  1. For violations of Amberson Towers' Code of Regulations numbered as Article XVII, prohibiting smoking in the units and common areas of Amberson Towers, the fines shall be as follows:
+      + 1st Violation:$50.00 
+      + 2nd Violation: $100.00 
+      + 3rd & Subsequent Violations: $250.00
+  2. For all other violations, the fines shall be as follows:
+      + 1st Violation:$250.00
+      + 2nd Violation: $500.00
+      + 3rd & Subsequent Violations: $1,000.00
+
+B. Each violation shall be considered a separate offense. Each day that any such violation continues shall also be considered a separate offense.
+
+C. All fines for violation of any provisions of Amberson Towers Declaration, Code of Regulations, and its Rules and Regulations by owners and tenants shall be levied against the unit of the owner(s). All fines for violations shall be assessed against the unit where the violation occurred. If the violation occurs in a common area of the building, the fine shall be levied against the unit owned or rented by the violator. If the violator is neither an owner or tenant, then the fine shall be levied against the unit of the owner or tenant whose·family members, guests, invitees, visitors, or other occupants commit the violation.
+
+D. All fines levied against units which remain unpaid for 30 days shall be subject to enforcement and collection. Any fines, costs and legal fees incur-ed by Amberson towers may be enforced as assessments under Section 3315 of the Pennsylvania Uniform Condominium Act. In addition, Council may pursue enforcement through any available legal or equitable remedies, including but not limited to taking legal action to obtain an injunction against the unit owners or other violator(s), especially for continuing violations. Should Council retain the services of legal counsel, then the owner(s) shall also be liable for all costs and legal fees incurred by Amberson Towers.
+
+*Notice of Violation*
+
+A. Notice of the violation and specified fine shall be addressed to and delivered to the unit owner(s) and tenants(s), if applicable, by hand deliver1y or by first class mail.
+
+
+*Appeal Procedures* 
+
+A. Unit owners and/or tenants have the right to appeal the violation and applicable fine by requesting a hearing before the Council. All appeals must be submitted in writing and received by the Amberson Towers Management Office within ten (10) days of notification of the violation. Failure to do so shall constitute a final and binding determination of the violation(s) and fine(s).
+
+B. Appeals will be acted upon at a regular or special meeting of Council. The person filing the appeal will receive notice of the date and time when the appeal will be heard by Council, have the right to attend the meeting and be heard in supp mt of the appeal.
+
+## X. Repairs, Alterations, or Additions 
+
+A. Prior to making repairs, alterations or additions to any unit, including but not limited to plumbing and electrical facilities, the unit owner must first submit plans and obtain the written approval of such plans from the Council. In order for the Council to consider any request, the following must first be submitted to the Building Manager for presentation to the Council for its review and approval:
+A plan showing the scope of the repairs, alterations or additions, particularly as it affects any interior boundary wall, exterior walls, exterior doors, screening, windows, structural or load bearing members, electrical and plumbing facilities.
+Building, electrical and electrical permits. All work performed must comply with all existing building, fire, electrical, plumbing and safety A list of all contractors whom you intend to use.
+
+B. Electricians must be registered to do business in the City of Pittsburgh. Plumbers must be registered with the Allegheny County Health Department.
+
+C. Contractors listed must submit certificates of insurance showing that they carry general public liability coverage in a minimum of $300,000.00 combined single limit for bodily injury and property damage, completed operations insurance, worker compensation and automobile liability coverages.
+
+D. All work must be coordinated with the Building Manager and may be performed only on weekdays between the hours of 9:00 am and 5:00 pm. Any material being discarded must be removed before 5:00 pm.
+
+E. The Property Manager or maintenance supervisor is authorized to monitor and conduct inspections of ongoing construction to assure compliance with this provision.
+
+## XI. Alternative Dispute Resolution; Mediation of Disputes 
+
+A. Alternative dispute resolution shall be available in all cases to resolve disputes between two or more unit owners, tenants and occupants, or between unit owners and the Association as set out in Part B below, subject to the following:
+
+  1. Alternative dispute resolution in the form of mediation shall be limited to disputes where all parties agree to alternative dispute resolution in accordance with Section 3321 (b)(2) of the Pennsylvania Uniform Condominium Act.
+    
+  2. A request for mediation shall be initiated by submitting a written request to the Manager and describing the nature of the complaint or dispute. 
+    
+  3. Upon receipt of the request, the Manager shall schedule a meeting or meetings with the parties in an effort to resolve the matter amicably. 
+
+  4. If the matter cannot be fully resolved by the Manager, then the parties shall enter into a Mediation Agreement, voluntarily agreeing that the dispute shall be submitted to non-binding mediation before a neutral mediator selected by the parties.
+
+  5. The mediator shall have no financial or personal interest in the result of the mediation.
+
+  6. Within **ten (20)**^[Discrepancy in the original. Is 10 **OR** 20 days the time limit for a letter submission after selection of a mediator?] days after selection of a mediator, the parties shall submit a letter, memorandum, or any other relevant information to the mediator which sets out the parties' positions in the dispute to be resolved. The mediator shall have the right to extend the time or request additional information as deemed necessary1y. 
+
+  7. The parties, their attorneys, representatives of the Association such as the Manager or its legal counsel, and others with the permission of the parties and consent of the mediator, may attend the mediation sessions. 
+
+  8. There shall be no stenographic record of the mediation process.
+
+  9. The fees and costs of mediation, excluding attorney fees, shall be assessed equally against all parties to the dispute, except that the expenses of witnesses for either side shall be paid by the party producing such witnesses.
+
+B. Alternative dispute resolution shall also be available in all cases to resolve disputes or complaints between unit owners and the Association relating to meetings, quorums, voting, proxies, and association records under Sections 3308, 3309, 3310, and 3316 of the [Pennsylvania Uniform Condominium Act](https://www.ncsl.org/documents/environ/PAcondo.pdf). 
