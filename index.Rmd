@@ -18,3 +18,5 @@ This document available in two formats. Choose the format you prefer:
 * [*As an Adobe PDF document*](DraftRules.pdf) 
 
 * [*As a web page*](DraftRules.html)
+
+## *This shell is under development..more to come*
