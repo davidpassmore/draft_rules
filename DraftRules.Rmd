@@ -4,13 +4,13 @@ subtitle: "Rules & Regulations" # only for html output
 author: "Draft by Governance Committee"
 date: "`r Sys.Date()`"
 output:
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: xelatex
+  tufte::tufte_html: default
   tufte::tufte_book:
     citation_package: natbib
     latex_engine: xelatex
-  tufte::tufte_html: default
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
 bibliography: skeleton.bib
 link-citations: yes
 ---
@@ -24,7 +24,7 @@ options(htmltools.dir.version = FALSE)
 
 ***
 
-The Amberson Towers Condominium Council is responsible for the operation of the Condominium. Pursuant to its Code of Regulations, the Council shall from time to time issue rulings, regulations, and conditions which shall be binding upon all Apartment Unit owners and occupants which rulings, regulations and conditions shall be in the Council's sole judgement for the general well-being, safety, care, and cleanliness of the building.^[This document available in [Adobe PDF](https://www.personal.psu.edu/dlp/amber/Governance_Rules_Drafts/DraftRules.pdf) and [web page](https://www.personal.psu.edu/dlp/amber/Governance_Rules_Drafts/DraftRules.html) versions.] ^[* **How to Review this Document:** * Suggestions for insertions, edits, and deletions are shown in a numbered sidebar location, such as this. Refer to the number of the sidebar (e.g, this is *sidebar 1*) when you present in basecamp reactions/comments/suggestions about the proposed changes offered in this draft.] 
+The Amberson Towers Condominium Council is responsible for the operation of the Condominium. Pursuant to its Code of Regulations, the Council shall from time to time issue rulings, regulations, and conditions which shall be binding upon all Apartment Unit owners and occupants which rulings, regulations and conditions shall be in the Council's sole judgement for the general well-being, safety, care, and cleanliness of the building.^[This document available in [Adobe PDF](https://davidpassmore.github.io/draft_rules/docs/DraftRules.pdf) and [web page](https://davidpassmore.github.io/draft_rules/docs/DraftRules.html) versions.] ^[* **How to Review this Document:** * Suggestions for insertions, edits, and deletions are shown in a numbered sidebar location, such as this. Refer to the number of the sidebar (e.g, this is *sidebar 1*) when you present in basecamp reactions/comments/suggestions about the proposed changes offered in this draft.] 
 
 ## I. Information & Assistance 
 
