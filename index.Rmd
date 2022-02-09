@@ -17,4 +17,4 @@ This document available in two formats. Choose the format you prefer:
 
 * [*As an Adobe PDF document*](DraftRules.pdf) 
 
-* [*As a web page*](docs/DraftRules.html)
+* [*As a web page*](DraftRules.html)

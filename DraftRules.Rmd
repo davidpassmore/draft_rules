@@ -1,16 +1,16 @@
 ---
-title: "Amberson Towers Condominum Council" # only for pdf output
+title: "Amberson Towers <br/> Condominum Council" # only for pdf output
 subtitle: "Rules & Regulations" # only for html output
 author: "Draft by Governance Committee"
 date: "`r Sys.Date()`"
 output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
   tufte::tufte_book:
     citation_package: natbib
     latex_engine: xelatex
   tufte::tufte_html: default
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: xelatex
 bibliography: skeleton.bib
 link-citations: yes
 ---
