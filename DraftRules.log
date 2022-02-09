@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.7)  9 FEB 2022 10:30
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.7)  9 FEB 2022 10:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -683,11 +683,11 @@ LaTeX Info: Redefining \nameref on input line 73.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \langwohyphens=\language3
-LaTeX Font Info:    Trying to load font information for U+msa on input line 92.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
 (/Users/dlp/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 92.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
 (/Users/dlp/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -717,32 +717,32 @@ LaTeX Warning: Marginpar on page 2 moved.
 
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 202.
+This message occurred on input line 200.
 
 [2]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 259.
+This message occurred on input line 257.
 
 [3]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 315.
+This message occurred on input line 313.
 
 [4]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 372.
+This message occurred on input line 370.
 
 [5]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 441.
+This message occurred on input line 439.
 
 [6]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 497.
+This message occurred on input line 495.
 
 [7]
 
@@ -751,12 +751,12 @@ LaTeX Warning: Marginpar on page 8 moved.
 No file DraftRules.bbl.
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 554.
+This message occurred on input line 552.
 
 [8]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 554.
+This message occurred on input line 552.
 
 [9] (./DraftRules.aux)
 Package rerunfilecheck Info: File `DraftRules.out' has not changed.
