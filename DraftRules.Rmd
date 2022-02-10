@@ -1,16 +1,16 @@
 ---
-title: "Amberson Towers <br/> Condominum Council" # only for pdf output
+title: "Amberson Towers Condominum" # only for pdf output
 subtitle: "Rules & Regulations" # only for html output
 author: "Draft by Governance Committee"
 date: "`r Sys.Date()`"
 output:
+  tufte::tufte_html: default
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: xelatex
   tufte::tufte_book:
     citation_package: natbib
     latex_engine: xelatex
-  tufte::tufte_html: default
 bibliography: skeleton.bib
 link-citations: yes
 ---
@@ -222,3 +222,4 @@ A. Alternative dispute resolution shall be available in all cases to resolve dis
   9. The fees and costs of mediation, excluding attorney fees, shall be assessed equally against all parties to the dispute, except that the expenses of witnesses for either side shall be paid by the party producing such witnesses.
 
 B. Alternative dispute resolution shall also be available in all cases to resolve disputes or complaints between unit owners and the Association relating to meetings, quorums, voting, proxies, and association records under Sections 3308, 3309, 3310, and 3316 of the [Pennsylvania Uniform Condominium Act](https://www.ncsl.org/documents/environ/PAcondo.pdf). 
+

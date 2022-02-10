@@ -1,8 +1,10 @@
 ---
-title: "*Please Participate in Review of Important <br/> Amberson Towers Condominium Documents*"
-author: "A Request from the Governance Committee <br/> of the Amberson Towers Condominium Council"
-date: "2/8/2022"
-output: html_document
+title: '*Time to Review Your Amberson<br/> Towers Condominium Bylaws*'
+author: A Request from the Governance Committee to Review Important Governing Documents
+date: —> By no later than XX February 2022 <—
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -11,12 +13,55 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ***
 
-### Please read these documents and comment
+#### *Why?*
 
-This document available in two formats. Choose the format you prefer:
+The Governance Committee of the Amberson Towers Condominium (ATC) Council is reviewing three documents that “govern” how our shared community operates: our *Rules and Regulations*, a *Declaration for Amberson Towers*, and the *Amberson Towers Code of Regulations*. 
 
-* [*As an Adobe PDF document*](DraftRules.pdf) 
+These documents constitute the bylaws for shared governance by unit owners in ATC. Most of these documents were drafted in 1978 and tweaked a bit over the years^[View changes in the bylaws over time under the *Governance" tab at [https://www.ambersontowers.org/governance/](https://www.ambersontowers.org/governance/).] Many unit owners and the ATC Council recognize the need for revision and reformation of these bylaws and have identified many opportunities for improvement. 
 
-* [*As a web page*](DraftRules.html)
+Perhaps you have recognized these and other needs and opportunities evident in the bylaws. Now is a chance to express your opinion. 
 
-## *This shell is under development..more to come*
+ATC is your home. Owners are not renters. Owners *own* ATC. Owners can engage in the shared governance of ATC by providing feedback to the Governance Committee of the ATC about changes identified for the ATC bylaws. 
+
+#### *How?*
+
+##### 1. Read the Documents. 
+
+Some of you received this note at your door or via the U.S. postal service. You may request printed versions of the documents and associated materials by contacting [Jim Donahoe](JDonahoe@meyersmanagement.com) in the Amberson Towers Management office. *However, if you have Internet access*, consider reviewing these documents online at https://davidpassmore.github.io/draft_rules/, as people receiving this note by email can.   
+
+Most of you received this note via email. Click on the following links to access web pages for each document^[View online or print to view offline]: 
+
+* [*Rules and Regulations*](DraftRules.html) 
+
+* [*Declaration for Amberson Tower*](DraftDeclare.html) 
+
+* [*Amberson Towers Code of Regulations*](DraftCode.html)
+
+OK, so you won't be riveted to the page by the gripping prose in the documents. Yet, as U.S. Navy Admiral Hyman Rickover once wrote, “The Devil is in the details, but so is salvation.” Spend the time. The documents shape your ATC life.
+
+##### 2. Offer Feedback
+
+The right sidebar each document contains suggestions for revision identified by the Governance Committee. Consider those suggestions and assemble your own suggestions. Provide your feedback to the Committee in any of XXX ways:
+
+* If you have Internet access, you may:
+    
+    + Complete and submit an online form at XXX(GOOGLE). Submit a form as many times as you wish as you reach new insights about bylaw revisions.
+    
+    + Offer your comments on the message board of the ATC online *Basecamp* account. Basecamp^[[Basecamp](https://basecamp.com/how-it-works) is a web-based project management tool that features to-do lists, milestone management, forum-like messaging, file sharing, and time tracking.] is a relatively easy-to-use online application that the ATV Council uses to manage its work. Over time, the ATC Basecamp application is likely to be adopted as a general and preferred tool communication among ATC owners.  Contact [Gil Citro](mailto:gil@ambersontowers.info) for an account.
+
+* If your offline feedback:
+
+    + Write your own comments and and submit them to the ATC Management office for delivery to the Governance Committee. You may write comments directly on printed copies of the documents.
+    
+    + Talk to provide your feedback with any of the following members of the Governance Committee, who ask the full Governance committee to integrate your comments and suggestions into the revised bylaws:
+        + Gil Citro (contact info)
+        + Gerry LaVan (contact info)
+        + David Passmore (contact info)
+
+#### *By When?*
+
+For your feedback to be useful for the work of the Governance Committee, provide your feedback by XX February 2022.
+
+#### *What's Next?*
+
+The Governance Committee will review feedback from ATC owners and other consultation (e.g., legal), as necessary. Then, the Governance Committee will propose to the ATC Council the implementation of a ballot for owners to consider adoption of the revised bylaws.
